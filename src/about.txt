@@ -1,0 +1,15 @@
++--------------------------[ Hello User ]---------------------------------+
+
+Thank you for reading.
+
+This project was made by me to practice bash scripting.
+This was made when i was just learning bash..
+so there are lot of things that are not ok.
+
+This was actually a personal project, that i though of making it public.
+Plz feel free to share issues and problems
+
+More changes are on the way.
+Have a nice day.
+
++--------------------------------------------------------------------------+

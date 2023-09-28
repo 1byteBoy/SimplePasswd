@@ -1,0 +1,6 @@
++------------------------------------------------------------------------+
+There is nothing much feature to explain                                 |
+                                                                         |
+1. Just if you want go back press ENTER                                  |   
+2. If you want to exit in the main menu just press ENTER without a value |
++------------------------------------------------------------------------+
